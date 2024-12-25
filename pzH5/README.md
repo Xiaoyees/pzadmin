@@ -7,4 +7,7 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 这是陪诊H5
 
 1. 安装依赖
-npm install
+    npm install
+2. 安装 element-plus
+
+​	npm install element-plus
